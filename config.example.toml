@@ -1,0 +1,4 @@
+[api_key]
+openai = "sk-XXX"  # Your OpenAI API key
+base_url = "https://openrouter.ai/api/v1/chat/completions" # Your OpenAI API base URL
+model_name = "google/gemini-flash-1.5-8b"
