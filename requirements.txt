@@ -1,4 +1,4 @@
 gradio
 youtube_transcript_api
 toml
-requsets
+requests
